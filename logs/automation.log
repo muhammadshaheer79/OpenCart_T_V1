@@ -1,0 +1,343 @@
+22:26:15.572 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\MyIntelliJConfigs\system\temp-testng-customsuite.xml
+
+22:26:17.363 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Beginning TC001_AccountRegistrationTest execution  ****
+22:26:17.452 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount dropdown link element
+22:26:17.684 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register rolled out link item element
+22:26:17.686 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling out customer details in Register Account form...
+22:26:20.365 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message
+22:26:20.392 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Finished TC001_AccountRegistrationTest execution  ****
+22:26:42.041 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\MyIntelliJConfigs\system\temp-testng-customsuite.xml
+
+22:26:43.876 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Beginning TC001_AccountRegistrationTest execution  ****
+22:26:43.963 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount dropdown link element
+22:26:44.196 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register rolled out link item element
+22:26:44.197 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling out customer details in Register Account form...
+22:26:46.867 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message
+22:26:46.893 [main] ERROR testCases.TC001_AccountRegistrationTest - The test case TC001_AccountRegistrationTest failed
+22:28:01.857 [main] DEBUG org.testng.TestNG - suiteXmlPath: "G:\MyIntelliJConfigs\system\temp-testng-customsuite.xml"
+22:28:02.087 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\MyIntelliJConfigs\system\temp-testng-customsuite.xml
+
+22:28:03.883 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Beginning TC001_AccountRegistrationTest execution  ****
+22:28:03.977 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount dropdown link element
+22:28:04.208 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register rolled out link item element
+22:28:04.209 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling out customer details in Register Account form...
+22:28:06.870 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message
+22:28:06.896 [main] ERROR testCases.TC001_AccountRegistrationTest - The test case TC001_AccountRegistrationTest failed
+22:28:06.896 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs...
+13:40:44.755 [main] DEBUG org.testng.TestNG - suiteXmlPath: "G:\IntelliJProjects\OpenCart_T_V1\master.xml"
+13:40:44.981 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\IntelliJProjects\OpenCart_T_V1\master.xml
+
+13:40:47.942 [main] INFO  testCases.TC002_LoginTest - ****  Beginning TC002_LoginTest execution  ****
+13:40:48.044 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount dropdown link element
+13:40:48.257 [main] INFO  testCases.TC002_LoginTest - Clicked on Login rolled out link item element
+13:40:48.258 [main] INFO  testCases.TC002_LoginTest - Filling out credentials in the Returning Customer form...
+13:40:48.462 [main] INFO  testCases.TC002_LoginTest - Validating expected My Account h2 heading
+13:40:48.676 [main] INFO  testCases.TC002_LoginTest - ****  Finished TC002_LoginTest execution  ****
+13:50:25.320 [main] DEBUG org.testng.TestNG - suiteXmlPath: "G:\IntelliJProjects\OpenCart_T_V1\master.xml"
+13:50:25.559 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\IntelliJProjects\OpenCart_T_V1\master.xml
+
+13:50:28.560 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:50:28.565 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:50:28.565 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:50:28.971 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:50:28.972 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:50:28.974 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:50:29.002 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:50:29.003 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:50:29.004 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:50:29.034 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:50:29.035 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:50:29.035 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:50:29.061 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:50:29.062 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:50:29.062 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:50:29.080 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:50:29.081 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:50:29.082 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:50:29.104 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:50:29.105 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:50:29.106 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:50:29.132 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:50:29.133 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:50:29.134 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:50:29.156 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:50:29.157 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:50:29.158 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:50:29.175 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:50:29.176 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:50:29.177 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:50:29.194 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:50:29.195 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:50:29.196 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:50:29.215 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:50:29.215 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:50:29.216 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:50:29.233 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:50:29.233 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:50:29.234 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:50:29.249 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:50:29.250 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:50:29.251 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:50:29.266 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:50:29.267 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:50:29.267 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:50:29.282 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:50:29.282 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:50:29.283 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:50:29.302 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:50:29.303 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:50:29.303 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:50:29.321 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:50:29.322 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:50:29.323 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:50:29.336 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:50:29.337 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:50:29.337 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:50:29.351 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:50:29.351 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:50:29.352 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:50:29.369 [main] INFO  testCases.TC003_LoginDDT - ****  Beginning TC003_LoginDDT execution  ****
+13:50:29.448 [main] INFO  testCases.TC003_LoginDDT - Clicked on MyAccount dropdown link element
+13:50:29.634 [main] INFO  testCases.TC003_LoginDDT - Clicked on Login rolled out link item element
+13:50:29.635 [main] INFO  testCases.TC003_LoginDDT - Filling out credentials in the Returning Customer form...
+13:50:29.838 [main] INFO  testCases.TC003_LoginDDT - Validating expected My Account h2 heading
+13:50:30.020 [main] INFO  testCases.TC003_LoginDDT - Clicked on Logout link item element
+13:50:30.229 [main] INFO  testCases.TC003_LoginDDT - Test case passes for provided valid credentials as input
+13:50:30.231 [main] INFO  testCases.TC003_LoginDDT - ****  Finished TC003_LoginDDT execution  ****
+13:50:30.233 [main] INFO  testCases.TC003_LoginDDT - ****  Beginning TC003_LoginDDT execution  ****
+13:50:30.278 [main] INFO  testCases.TC003_LoginDDT - Clicked on MyAccount dropdown link element
+13:50:30.442 [main] INFO  testCases.TC003_LoginDDT - Clicked on Login rolled out link item element
+13:50:30.442 [main] INFO  testCases.TC003_LoginDDT - Filling out credentials in the Returning Customer form...
+13:50:30.588 [main] INFO  testCases.TC003_LoginDDT - Validating expected My Account h2 heading
+13:50:30.801 [main] INFO  testCases.TC003_LoginDDT - Clicked on Logout link item element
+13:50:30.977 [main] INFO  testCases.TC003_LoginDDT - Test case fails for provided invalid credentials as input
+13:50:30.985 [main] INFO  testCases.TC003_LoginDDT - ****  Finished TC003_LoginDDT execution  ****
+13:50:30.991 [main] INFO  testCases.TC003_LoginDDT - ****  Beginning TC003_LoginDDT execution  ****
+13:50:31.037 [main] INFO  testCases.TC003_LoginDDT - Clicked on MyAccount dropdown link element
+13:50:31.218 [main] INFO  testCases.TC003_LoginDDT - Clicked on Login rolled out link item element
+13:50:31.218 [main] INFO  testCases.TC003_LoginDDT - Filling out credentials in the Returning Customer form...
+13:50:31.377 [main] INFO  testCases.TC003_LoginDDT - Validating expected My Account h2 heading
+13:50:31.546 [main] INFO  testCases.TC003_LoginDDT - Clicked on Logout link item element
+13:50:31.741 [main] INFO  testCases.TC003_LoginDDT - Test case passes for provided valid credentials as input
+13:50:31.741 [main] INFO  testCases.TC003_LoginDDT - ****  Finished TC003_LoginDDT execution  ****
+13:50:31.742 [main] INFO  testCases.TC003_LoginDDT - ****  Beginning TC003_LoginDDT execution  ****
+13:50:31.791 [main] INFO  testCases.TC003_LoginDDT - Clicked on MyAccount dropdown link element
+13:50:31.949 [main] INFO  testCases.TC003_LoginDDT - Clicked on Login rolled out link item element
+13:50:31.950 [main] INFO  testCases.TC003_LoginDDT - Filling out credentials in the Returning Customer form...
+13:50:32.089 [main] INFO  testCases.TC003_LoginDDT - Validating expected My Account h2 heading
+13:50:32.287 [main] INFO  testCases.TC003_LoginDDT - Clicked on Logout link item element
+13:50:32.487 [main] INFO  testCases.TC003_LoginDDT - Test case fails for provided invalid credentials as input
+13:50:32.487 [main] INFO  testCases.TC003_LoginDDT - ****  Finished TC003_LoginDDT execution  ****
+13:50:32.490 [main] INFO  testCases.TC003_LoginDDT - ****  Beginning TC003_LoginDDT execution  ****
+13:50:32.535 [main] INFO  testCases.TC003_LoginDDT - Clicked on MyAccount dropdown link element
+13:50:32.710 [main] INFO  testCases.TC003_LoginDDT - Clicked on Login rolled out link item element
+13:50:32.710 [main] INFO  testCases.TC003_LoginDDT - Filling out credentials in the Returning Customer form...
+13:50:32.840 [main] INFO  testCases.TC003_LoginDDT - Validating expected My Account h2 heading
+13:50:42.838 [main] INFO  testCases.TC003_LoginDDT - Test case passes for provided invalid credentials as input
+13:50:42.838 [main] INFO  testCases.TC003_LoginDDT - ****  Finished TC003_LoginDDT execution  ****
+13:50:42.838 [main] INFO  testCases.TC003_LoginDDT - ****  Beginning TC003_LoginDDT execution  ****
+13:50:42.890 [main] INFO  testCases.TC003_LoginDDT - Clicked on MyAccount dropdown link element
+13:50:43.061 [main] INFO  testCases.TC003_LoginDDT - Clicked on Login rolled out link item element
+13:50:43.061 [main] INFO  testCases.TC003_LoginDDT - Filling out credentials in the Returning Customer form...
+13:50:43.303 [main] INFO  testCases.TC003_LoginDDT - Validating expected My Account h2 heading
+13:50:53.335 [main] INFO  testCases.TC003_LoginDDT - Test case passes for provided invalid credentials as input
+13:50:53.335 [main] INFO  testCases.TC003_LoginDDT - ****  Finished TC003_LoginDDT execution  ****
+14:56:22.115 [main] DEBUG org.testng.TestNG - suiteXmlPath: "G:\IntelliJProjects\OpenCart_T_V1\grouping.xml"
+14:56:22.353 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\IntelliJProjects\OpenCart_T_V1\grouping.xml
+
+14:56:25.274 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Beginning TC001_AccountRegistrationTest execution  ****
+14:56:25.375 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount dropdown link element
+14:56:25.628 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register rolled out link item element
+14:56:25.629 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling out customer details in Register Account form...
+14:56:28.307 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message
+14:56:28.335 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Finished TC001_AccountRegistrationTest execution  ****
+14:56:29.824 [main] INFO  testCases.TC002_LoginTest - ****  Beginning TC002_LoginTest execution  ****
+14:56:29.893 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount dropdown link element
+14:56:30.085 [main] INFO  testCases.TC002_LoginTest - Clicked on Login rolled out link item element
+14:56:30.085 [main] INFO  testCases.TC002_LoginTest - Filling out credentials in the Returning Customer form...
+14:56:30.294 [main] INFO  testCases.TC002_LoginTest - Validating expected My Account h2 heading
+14:56:30.467 [main] INFO  testCases.TC002_LoginTest - ****  Finished TC002_LoginTest execution  ****
+18:55:26.506 [main] DEBUG org.testng.TestNG - suiteXmlPath: "G:\IntelliJProjects\OpenCart_T_V1\grouping.xml"
+18:55:26.759 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\IntelliJProjects\OpenCart_T_V1\grouping.xml
+
+18:58:30.159 [main] DEBUG org.testng.TestNG - suiteXmlPath: "G:\IntelliJProjects\OpenCart_T_V1\grouping.xml"
+18:58:30.419 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\IntelliJProjects\OpenCart_T_V1\grouping.xml
+
+18:58:32.387 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Beginning TC001_AccountRegistrationTest execution  ****
+18:58:32.468 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount dropdown link element
+18:58:32.705 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register rolled out link item element
+18:58:32.706 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling out customer details in Register Account form...
+18:58:35.365 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message
+18:58:35.392 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Finished TC001_AccountRegistrationTest execution  ****
+18:58:36.883 [main] INFO  testCases.TC002_LoginTest - ****  Beginning TC002_LoginTest execution  ****
+18:58:36.955 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount dropdown link element
+18:58:37.150 [main] INFO  testCases.TC002_LoginTest - Clicked on Login rolled out link item element
+18:58:37.151 [main] INFO  testCases.TC002_LoginTest - Filling out credentials in the Returning Customer form...
+18:58:37.349 [main] INFO  testCases.TC002_LoginTest - Validating expected My Account h2 heading
+18:58:37.544 [main] INFO  testCases.TC002_LoginTest - ****  Finished TC002_LoginTest execution  ****
+19:40:27.718 [main] DEBUG org.testng.TestNG - suiteXmlPath: "G:\IntelliJProjects\OpenCart_T_V1\grouping.xml"
+19:40:27.981 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\IntelliJProjects\OpenCart_T_V1\grouping.xml
+
+19:40:29.977 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Beginning TC001_AccountRegistrationTest execution  ****
+19:40:30.065 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount dropdown link element
+19:40:30.304 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register rolled out link item element
+19:40:30.305 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling out customer details in Register Account form...
+19:40:32.976 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message
+19:40:33.003 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Finished TC001_AccountRegistrationTest execution  ****
+19:40:34.477 [main] INFO  testCases.TC002_LoginTest - ****  Beginning TC002_LoginTest execution  ****
+19:40:34.544 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount dropdown link element
+19:40:34.753 [main] INFO  testCases.TC002_LoginTest - Clicked on Login rolled out link item element
+19:40:34.754 [main] INFO  testCases.TC002_LoginTest - Filling out credentials in the Returning Customer form...
+19:40:34.943 [main] INFO  testCases.TC002_LoginTest - Validating expected My Account h2 heading
+19:40:44.952 [main] ERROR testCases.TC002_LoginTest - The test case TC002_LoginTest failed
+19:40:44.952 [main] DEBUG testCases.TC002_LoginTest - Debug logs...
+19:40:44.960 [main] INFO  testCases.TC002_LoginTest - ****  Finished TC002_LoginTest execution  ****
+19:42:52.599 [main] DEBUG org.testng.TestNG - suiteXmlPath: "G:\IntelliJProjects\OpenCart_T_V1\test-output\testng-failed.xml"
+19:42:52.855 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\IntelliJProjects\OpenCart_T_V1\test-output\testng-failed.xml
+
+19:42:54.917 [main] INFO  testCases.TC002_LoginTest - ****  Beginning TC002_LoginTest execution  ****
+19:42:55.017 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount dropdown link element
+19:42:55.239 [main] INFO  testCases.TC002_LoginTest - Clicked on Login rolled out link item element
+19:42:55.240 [main] INFO  testCases.TC002_LoginTest - Filling out credentials in the Returning Customer form...
+19:42:55.440 [main] INFO  testCases.TC002_LoginTest - Validating expected My Account h2 heading
+19:42:55.630 [main] INFO  testCases.TC002_LoginTest - ****  Finished TC002_LoginTest execution  ****
+13:49:24.490 [main] DEBUG org.testng.TestNG - suiteXmlPath: "G:\IntelliJProjects\OpenCart_T_V1\master.xml"
+13:49:24.752 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\IntelliJProjects\OpenCart_T_V1\master.xml
+
+13:49:27.943 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Beginning TC001_AccountRegistrationTest execution  ****
+13:49:28.060 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount dropdown link element
+13:49:28.342 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register rolled out link item element
+13:49:28.344 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling out customer details in Register Account form...
+13:49:31.103 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message
+13:49:31.139 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Finished TC001_AccountRegistrationTest execution  ****
+13:49:32.591 [main] INFO  testCases.TC002_LoginTest - ****  Beginning TC002_LoginTest execution  ****
+13:49:32.669 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount dropdown link element
+13:49:32.881 [main] INFO  testCases.TC002_LoginTest - Clicked on Login rolled out link item element
+13:49:32.883 [main] INFO  testCases.TC002_LoginTest - Filling out credentials in the Returning Customer form...
+13:49:33.092 [main] INFO  testCases.TC002_LoginTest - Validating expected My Account h2 heading
+13:49:33.270 [main] INFO  testCases.TC002_LoginTest - ****  Finished TC002_LoginTest execution  ****
+16:24:17.837 [main] DEBUG org.testng.TestNG - suiteXmlPath: "G:\IntelliJProjects\OpenCart_T_V1\grid-docker.xml"
+16:24:18.118 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\IntelliJProjects\OpenCart_T_V1\grid-docker.xml
+
+17:33:58.560 [main] DEBUG org.testng.TestNG - suiteXmlPath: "G:\IntelliJProjects\OpenCart_T_V1\grid-docker.xml"
+17:33:58.848 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\IntelliJProjects\OpenCart_T_V1\grid-docker.xml
+
+17:34:03.339 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Beginning TC001_AccountRegistrationTest execution  ****
+17:34:03.612 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount dropdown link element
+17:34:13.645 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Finished TC001_AccountRegistrationTest execution  ****
+17:34:14.742 [main] INFO  testCases.TC002_LoginTest - ****  Beginning TC002_LoginTest execution  ****
+17:34:14.937 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount dropdown link element
+17:34:24.988 [main] INFO  testCases.TC002_LoginTest - ****  Finished TC002_LoginTest execution  ****
+01:11:48.788 [main] DEBUG org.testng.TestNG - suiteXmlPath: "G:\IntelliJProjects\OpenCart_T_V1\grid-docker.xml"
+01:11:49.084 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\IntelliJProjects\OpenCart_T_V1\grid-docker.xml
+
+01:11:54.011 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Beginning TC001_AccountRegistrationTest execution  ****
+01:11:54.496 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount dropdown link element
+01:12:04.566 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Finished TC001_AccountRegistrationTest execution  ****
+01:12:05.722 [main] INFO  testCases.TC002_LoginTest - ****  Beginning TC002_LoginTest execution  ****
+01:12:05.918 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount dropdown link element
+01:12:15.978 [main] INFO  testCases.TC002_LoginTest - ****  Finished TC002_LoginTest execution  ****
+01:43:34.925 [main] DEBUG org.testng.TestNG - suiteXmlPath: "G:\IntelliJProjects\OpenCart_T_V1\grid-docker.xml"
+01:43:35.224 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\IntelliJProjects\OpenCart_T_V1\grid-docker.xml
+
+01:43:38.283 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Beginning TC001_AccountRegistrationTest execution  ****
+01:43:38.459 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount dropdown link element
+01:43:38.863 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register rolled out link item element
+01:43:38.865 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling out customer details in Register Account form...
+01:43:42.015 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message
+01:43:42.068 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Finished TC001_AccountRegistrationTest execution  ****
+01:43:43.146 [main] INFO  testCases.TC002_LoginTest - ****  Beginning TC002_LoginTest execution  ****
+01:43:43.309 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount dropdown link element
+01:43:43.632 [main] INFO  testCases.TC002_LoginTest - Clicked on Login rolled out link item element
+01:43:43.634 [main] INFO  testCases.TC002_LoginTest - Filling out credentials in the Returning Customer form...
+01:43:43.959 [main] INFO  testCases.TC002_LoginTest - Validating expected My Account h2 heading
+01:43:44.224 [main] INFO  testCases.TC002_LoginTest - ****  Finished TC002_LoginTest execution  ****
+01:48:31.483 [main] DEBUG org.testng.TestNG - suiteXmlPath: "G:\IntelliJProjects\OpenCart_T_V1\grid-docker.xml"
+01:48:31.812 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\IntelliJProjects\OpenCart_T_V1\grid-docker.xml
+
+01:48:34.949 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Beginning TC001_AccountRegistrationTest execution  ****
+01:48:35.175 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount dropdown link element
+01:48:35.628 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register rolled out link item element
+01:48:35.630 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling out customer details in Register Account form...
+01:48:38.782 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message
+01:48:38.832 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Finished TC001_AccountRegistrationTest execution  ****
+01:48:39.870 [main] INFO  testCases.TC002_LoginTest - ****  Beginning TC002_LoginTest execution  ****
+01:48:40.041 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount dropdown link element
+01:48:40.311 [main] INFO  testCases.TC002_LoginTest - Clicked on Login rolled out link item element
+01:48:40.313 [main] INFO  testCases.TC002_LoginTest - Filling out credentials in the Returning Customer form...
+01:48:40.646 [main] INFO  testCases.TC002_LoginTest - Validating expected My Account h2 heading
+01:48:40.920 [main] INFO  testCases.TC002_LoginTest - ****  Finished TC002_LoginTest execution  ****
+01:48:46.582 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Beginning TC001_AccountRegistrationTest execution  ****
+01:48:46.724 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount dropdown link element
+01:48:47.101 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register rolled out link item element
+01:48:47.102 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling out customer details in Register Account form...
+01:48:49.990 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message
+01:48:50.030 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Finished TC001_AccountRegistrationTest execution  ****
+01:48:54.443 [main] INFO  testCases.TC002_LoginTest - ****  Beginning TC002_LoginTest execution  ****
+01:48:54.577 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount dropdown link element
+01:48:54.821 [main] INFO  testCases.TC002_LoginTest - Clicked on Login rolled out link item element
+01:48:54.821 [main] INFO  testCases.TC002_LoginTest - Filling out credentials in the Returning Customer form...
+01:48:55.192 [main] INFO  testCases.TC002_LoginTest - Validating expected My Account h2 heading
+01:48:55.236 [main] INFO  testCases.TC002_LoginTest - ****  Finished TC002_LoginTest execution  ****
+01:15:54.780 [main] DEBUG org.testng.TestNG - suiteXmlPath: "G:\IntelliJProjects\OpenCart_T_V1\master.xml"
+01:15:55.037 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\IntelliJProjects\OpenCart_T_V1\master.xml
+
+01:16:52.110 [main] DEBUG org.testng.TestNG - suiteXmlPath: "G:\IntelliJProjects\OpenCart_T_V1\master.xml"
+01:16:52.381 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  G:\IntelliJProjects\OpenCart_T_V1\master.xml
+
+01:16:57.063 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Beginning TC001_AccountRegistrationTest execution  ****
+01:16:57.158 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount dropdown link element
+01:16:57.424 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register rolled out link item element
+01:16:57.426 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling out customer details in Register Account form...
+01:17:00.158 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message
+01:17:00.188 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Finished TC001_AccountRegistrationTest execution  ****
+01:17:01.743 [main] INFO  testCases.TC002_LoginTest - ****  Beginning TC002_LoginTest execution  ****
+01:17:01.819 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount dropdown link element
+01:17:02.033 [main] INFO  testCases.TC002_LoginTest - Clicked on Login rolled out link item element
+01:17:02.035 [main] INFO  testCases.TC002_LoginTest - Filling out credentials in the Returning Customer form...
+01:17:02.259 [main] INFO  testCases.TC002_LoginTest - Validating expected My Account h2 heading
+01:17:02.448 [main] INFO  testCases.TC002_LoginTest - ****  Finished TC002_LoginTest execution  ****
+01:37:21.383 [main] DEBUG org.testng.TestNG - suiteXmlPath: "G:\IntelliJProjects\OpenCart_T_V1\master.xml"
+01:37:23.605 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Beginning TC001_AccountRegistrationTest execution  ****
+01:37:23.705 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount dropdown link element
+01:37:23.987 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register rolled out link item element
+01:37:23.988 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling out customer details in Register Account form...
+01:37:26.727 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message
+01:37:26.753 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Finished TC001_AccountRegistrationTest execution  ****
+01:37:28.516 [main] INFO  testCases.TC002_LoginTest - ****  Beginning TC002_LoginTest execution  ****
+01:37:28.600 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount dropdown link element
+01:37:28.813 [main] INFO  testCases.TC002_LoginTest - Clicked on Login rolled out link item element
+01:37:28.815 [main] INFO  testCases.TC002_LoginTest - Filling out credentials in the Returning Customer form...
+01:37:29.065 [main] INFO  testCases.TC002_LoginTest - Validating expected My Account h2 heading
+01:37:29.257 [main] INFO  testCases.TC002_LoginTest - ****  Finished TC002_LoginTest execution  ****
+03:40:17.671 [main] DEBUG org.testng.TestNG - suiteXmlPath: "G:\IntelliJProjects\OpenCart_T_V1\master.xml"
+03:40:20.433 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Beginning TC001_AccountRegistrationTest execution  ****
+03:40:20.525 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount dropdown link element
+03:40:20.819 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register rolled out link item element
+03:40:20.821 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling out customer details in Register Account form...
+03:40:23.544 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message
+03:40:23.574 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Finished TC001_AccountRegistrationTest execution  ****
+03:40:25.137 [main] INFO  testCases.TC002_LoginTest - ****  Beginning TC002_LoginTest execution  ****
+03:40:25.208 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount dropdown link element
+03:40:25.416 [main] INFO  testCases.TC002_LoginTest - Clicked on Login rolled out link item element
+03:40:25.418 [main] INFO  testCases.TC002_LoginTest - Filling out credentials in the Returning Customer form...
+03:40:25.637 [main] INFO  testCases.TC002_LoginTest - Validating expected My Account h2 heading
+03:40:25.817 [main] INFO  testCases.TC002_LoginTest - ****  Finished TC002_LoginTest execution  ****
